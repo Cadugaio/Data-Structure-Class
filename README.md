@@ -1,5 +1,9 @@
-# Wait-list
-This wait-list was developed for use in a hospital, and made for data analytics class.
+# Data structure class
+"dados 1" is wait-list was developed for use in a hospital.
+
+"dados 2" is a new vehicle registration system, using a hash table.
+
+They were made for data analytics class, therefore Portuguese was the chosen language.
 
 ## Contributing
 
