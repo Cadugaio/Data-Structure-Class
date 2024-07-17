@@ -3,7 +3,7 @@
 
 "dados 2" is a new vehicle registration system, using a hash table.
 
-They were made for data analytics class, therefore Portuguese was the chosen language.
+They were made for data analytics class, therefore Portuguese was the chosen language, using Python and vs code as the IDE.
 
 ## Contributing
 
